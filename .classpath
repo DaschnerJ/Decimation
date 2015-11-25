@@ -2,10 +2,10 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="jar/lwjgl.jar" sourcepath="src.zip">
+	<classpathentry kind="lib" path="Libary Data/LWJGL/jar/lwjgl.jar" sourcepath="Libary Data/LWJGL/doc/src.zip">
 		<attributes>
-			<attribute name="javadoc_location" value="jar:platform:/resource/Decimation/doc/javadoc.zip!/"/>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Decimation/native"/>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Decimation/Libary%20Data/LWJGL/doc/javadoc.zip!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Decimation/Libary Data/LWJGL/native"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin1"/>

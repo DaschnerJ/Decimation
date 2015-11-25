@@ -40,7 +40,9 @@ public class Decimation {
     
     public void render() {
     	
-        glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
+        glClearColor(0.0f, 0.0f, 0.0f, 0.5f);
+        
+        
     	
     }
     
